@@ -55,3 +55,10 @@ method-17
 coleslaw
 ingredients-18
 method-18
+shakshuka
+ingredients-19
+method-19
+pres_lemon
+ingredients-20
+method-20
+lemon_suntom_pasta
